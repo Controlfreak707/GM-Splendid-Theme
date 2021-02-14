@@ -1,3 +1,5 @@
+> Archived due to automated theme porting.
+
 # GM-Splendid-Theme
 An absolutely splendid theme.
 
